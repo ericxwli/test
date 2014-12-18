@@ -1,4 +1,4 @@
-Welcome to the gngr wiki!
+Welcome to the gngr wiki! Some important pages:
 
-### App Sandboxing
-It is very important to run the initial versions of `gngr` under a sandbox. Here are [some suggestions](app-sandboxing).
+* [App sandboxing](app-sandboxing)
+* [Clearing browser caches and data](clear-cache-data)
