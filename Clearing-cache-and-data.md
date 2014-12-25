@@ -2,4 +2,4 @@
 
 To clear all persistent data, just remove the `.gngr` directory.
 
-Currently, there is no way to clear data from within the app.
+Currently, there is no way to clear data from within the app. We have an [open issue for it](https://github.com/UprootLabs/gngr/issues/25).
