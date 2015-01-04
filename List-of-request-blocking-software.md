@@ -1,5 +1,3 @@
-Until [`gngr`](https://gngr.info) is stable, this list of alternative request blocking software may be useful.
-
 |Name|Used with|Switchboard|Active as of Q1 2015|Known Issues|
 |----|---------|-----------|--------------------|------------|
 |[uMatrix](https://github.com/gorhill/uMatrix)|Chromium|✔|✔|[Being compiled](https://github.com/gorhill/uMatrix/issues/97)|
