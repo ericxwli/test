@@ -5,5 +5,6 @@ Until [`gngr`](https://gngr.info) is stable, this list of alternative request bl
 |[uMatrix](https://github.com/gorhill/uMatrix)|Chromium|✔|✔|
 |[uBlock](https://github.com/gorhill/uBlock)|Chromium| |✔|
 |[NoScript](https://noscript.net/)|Firefox||✔|
+|[RequestPolicyContinued](https://github.com/RequestPolicyContinued/requestpolicy)|Firefox|✔|✔|
 |[Policeman](https://github.com/futpib/policeman)|Firefox|✔|✔|
 
