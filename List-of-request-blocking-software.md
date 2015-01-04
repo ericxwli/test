@@ -1,11 +1,14 @@
 Until [`gngr`](https://gngr.info) is stable, this list of alternative request blocking software may be useful.
 
 |Name|Used with|Switchboard|Active as of Q1 2015|Known Issues|
-|----|---------|-----------|--------------------|
+|----|---------|-----------|--------------------|------------|
 |[uMatrix](https://github.com/gorhill/uMatrix)|Chromium|✔|✔|
 |[uBlock](https://github.com/gorhill/uBlock)|Chromium| |✔|
 |[NoScript](https://noscript.net/)|Firefox||✔|
 |[RequestPolicyContinued](https://github.com/RequestPolicyContinued/requestpolicy)|Firefox|✔|✔|
 |[Policeman](https://github.com/futpib/policeman)|Firefox|✔|✔|
 
-# Known Issues
+## Known Issues
+
+### uMatrix
+Being compiled [here](https://github.com/gorhill/uMatrix/issues/97)
