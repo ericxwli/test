@@ -1,4 +1,4 @@
-|Name|Used with|Switchboard|Active as of Q1 2015|Known Issues|
+|Name|Used with|Switchboard|Active as of Q1 2015|Known Limitations|
 |----|---------|-----------|--------------------|------------|
 |[uMatrix](https://github.com/gorhill/uMatrix)|Chromium|✔|✔|[Being compiled](https://github.com/gorhill/uMatrix/issues/97)|
 |[uBlock](https://github.com/gorhill/uBlock)|Chromium| |✔|TODO|
