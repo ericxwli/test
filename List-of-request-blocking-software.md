@@ -1,10 +1,10 @@
-|Name|Used with|Switchboard*|Active as of Q1 2015|
+|Name|Used with|Switchboard*|Embed Filtering**|Active as of Q1 2015|
 |----|---------|-----------|--------------------|
-|[uMatrix](https://github.com/gorhill/uMatrix)|Chromium|✔|✔|
-|[uBlock](https://github.com/gorhill/uBlock)|Chromium| |✔|
-|[NoScript](https://noscript.net/)|Firefox||✔|
-|[RequestPolicyContinued](https://github.com/RequestPolicyContinued/requestpolicy)|Firefox|✔|✔|
-|[Policeman](https://github.com/futpib/policeman)|Firefox|✔|✔|
+|[uMatrix](https://github.com/gorhill/uMatrix)|Chromium|✔| |✔|
+|[uBlock](https://github.com/gorhill/uBlock)|Chromium| | |✔|
+|[NoScript](https://noscript.net/)|Firefox||✔|✔|
+|[RequestPolicyContinued](https://github.com/RequestPolicyContinued/requestpolicy)|Firefox|✔| |✔|
+|[Policeman](https://github.com/futpib/policeman)|Firefox|✔| |✔|
 
 ### Known Limitations
 #### [uMatrix](https://github.com/gorhill/uMatrix/issues/97)
@@ -20,3 +20,7 @@ The extensions which have a switchboard like interface enable the user to block 
 In contrast, extensions like NoScript have a global switch. If I allow scripts from DontBeEvil.com, they are enabled on all domains. They don't prevent XSS attacks, for example.
 
 If there's a better name for this concept, please do suggest one.
+
+### ** Embed Filtering
+
+Allows fine-grained control over which Embedded objects are allowed, such as plugins, Font-Face, HTML Audio / Video.
