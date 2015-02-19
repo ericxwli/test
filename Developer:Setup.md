@@ -17,3 +17,15 @@ This needs to be done only once.
 #### Launching
 * In Eclipse / Package Explorer click the `Platform_Core` project and ensure it is selected.
 * In the Run menu, choose `Run` or `Debug`, and choose `gngr` as the launch configuration.
+
+### Coding
+We need to follow a consistent coding style and format so that the code is readable to everyone
+and there are fewer differences between commits.
+
+Eclipse has an auto-formatting feature (Menu: `Source/Format`) but we first need to configure it.
+The settings used by us are exported to a file in the repo, and you need to import them into your
+Eclipse.
+
+#### How to import the Code Formatter settings
+* Go to `Window > Preferences > Java > Code Style > Formatter` and click `Import...`
+* Select the file `misc/EclipseJavaFormat_Spaced.xml` from the repository.
