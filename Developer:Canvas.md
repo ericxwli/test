@@ -14,7 +14,7 @@
     * shadowOffsetX
     * shadowOffsetY
     * shadowBlur
-    * shadoeColor
+    * shadowColor
     
   * Draw APIs
     * drawFocusIfNeeded
