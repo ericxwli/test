@@ -20,6 +20,7 @@
     * drawFocusIfNeeded
     * strokeText
     * drawImage
+    * DataURL
 
   * Interaction and Animation
     * isPointInPath
