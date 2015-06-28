@@ -28,3 +28,6 @@
     * removeHitRegion
     * clearHitRegion 
  
+## Tests
+Apart from the w3c tests, here are some more:
+* [Philip's canvas tests](https://philip.html5.org/tests/canvas/suite/tests/)
