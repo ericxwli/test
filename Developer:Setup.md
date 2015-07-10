@@ -29,3 +29,6 @@ Eclipse.
 #### How to import the Code Formatter settings
 * Go to `Window > Preferences > Java > Code Style > Formatter` and click `Import...`
 * Select the file `misc/EclipseJavaFormat_Spaced.xml` from the repository.
+
+### Committing
+Some good tips [here](https://github.com/erlang/otp/wiki/Writing-good-commit-messages) to begin with, but need to adapt a little bit.
