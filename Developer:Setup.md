@@ -18,6 +18,11 @@ This needs to be done only once.
 * In Eclipse / Package Explorer click the `Platform_Core` project and ensure it is selected.
 * In the Run menu, choose `Run` or `Debug`, and choose `gngr` as the launch configuration.
 
+### Testing
+The `file://` protocol is disabled in `gngr` as of now, for security reasons. To load an `html` file from your local system, you can start a server locally, and access through `http`.
+
+A simple server can be quickly started with this command: `python -m SimpleHTTPServer`. It serves files from the current directory. A better performing server can be started with the help of [this script](https://gist.github.com/hrj/c91b46b3e4bba091fef5).
+
 ### Coding
 We need to follow a consistent coding style and format so that the code is readable to everyone
 and there are fewer differences between commits.
