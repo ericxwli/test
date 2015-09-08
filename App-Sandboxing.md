@@ -13,6 +13,7 @@ Here are some packaged solutions that address this at various levels:
 * http://subuser.org/
 * https://subgraph.com/
 * https://l3net.wordpress.com/projects/firejail/
+* http://pdos.csail.mit.edu/mbox/
 
 ### Further reading
 * https://wiki.gnome.org/Projects/SandboxedApps
