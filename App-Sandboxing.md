@@ -8,7 +8,10 @@ The simplest way to sandbox an app is to run it as a separate user in your opera
 ### Virtualization
 This takes a little more time to setup but is safer. You can use tools such as `VirtualBox` or `lxc` to create virtual machines.
 
-Apart from that, here are some packaged solutions:
+Here are some packaged solutions that address this at various levels:
 * https://www.qubes-os.org/
 * http://subuser.org/
 * https://subgraph.com/
+
+### Further reading
+* https://wiki.gnome.org/Projects/SandboxedApps
