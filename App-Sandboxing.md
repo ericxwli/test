@@ -12,6 +12,7 @@ Here are some packaged solutions that address this at various levels:
 * https://www.qubes-os.org/
 * http://subuser.org/
 * https://subgraph.com/
+* https://l3net.wordpress.com/projects/firejail/
 
 ### Further reading
 * https://wiki.gnome.org/Projects/SandboxedApps
