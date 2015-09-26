@@ -1,6 +1,19 @@
 # Concerns About Java
 
-##
+## Why did you choose Java?
+* Only cross-platform high-level language with a fully-functional GUI library (AWT + Swing).
+* Automatic memory management and resource management.
+* Strongly and Statically typed.
+* Runtime Sandboxing, via the Security Manager.
+* Good performance for long running applications such as a browser.
+* Fully open-source. (C# was not open-source and cross-platform until recently).
+
+## Why Java, and not some other JVM language?
+* we forked from Lobo browser which was written in Java
+* lesser run-time overheads than other JVM languages
+* larger community
+
+We are exploring alternatives, such as Scala, Kotlin, Ceylon, but don't want to rush into them right now. Also, Java 8 added support for Lambdas, which somewhat reduced the gap.
 
 # General
 
