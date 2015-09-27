@@ -17,6 +17,8 @@ However, the term `Java` has other meanings too. `Java Applications` are usually
 
 Now, there have been vulnerabilities found in the past in the sandboxing mechanism, just like in many other software artifacts. And these vulnerabilities get fixed on a regular basis. (TODO: Add a link to java vulnerability search in NVD).
 
+See this [Stackoverflow thread](http://security.stackexchange.com/questions/57646/why-do-i-hear-about-so-many-java-insecurities-are-other-languages-more-secure) for further discussion.
+
 ## Why Java, and not some other JVM language?
 * We forked from Lobo browser which was written in Java
 * Java has lesser run-time overheads than other JVM languages
