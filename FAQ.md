@@ -15,7 +15,7 @@ However, the term `Java` has other meanings too. `Java Applications` are usually
 
 `gngr` is written in the `Java language` and runs on a desktop (standard edition) `Java Virtual Machine`. It does *not* run as an applet nor does it support applets. The security of `Java applications` running on the `Java Virtual Machine` is very good; they don't suffer from common security vulnerabilities such as buffer overruns, or access to freed memory. They can also utilise the sandboxing mechanism, as `gngr` does.
 
-Now, there have been vulnerabilities found in the past in the sandboxing mechanism, just like in many other software artifacts. And these vulnerabilities get fixed on a regular basis. (TODO: Add a link to java vulnerability search in NVD).
+Now, there have been vulnerabilities found in the past in the sandboxing mechanism, just like in many other software artifacts. And these vulnerabilities get fixed on a regular basis. (TODO: Add a link to java vulnerability search in NVD). Moreover, a platform level sandbox has better chances of being fixed regularly than a project-specific sandbox, since there are more stake-holders involved.
 
 See this [Stackoverflow thread](http://security.stackexchange.com/questions/57646/why-do-i-hear-about-so-many-java-insecurities-are-other-languages-more-secure) for further discussion.
 
