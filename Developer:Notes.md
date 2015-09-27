@@ -11,3 +11,6 @@ To avoid the deadlock, we are following a priority based approach:
 
 * If a thread only requires one of the locks, it can take it directly.
 * If a thread needs both tree-lock and an element lock, then the tree-lock should be acquired first, and then while holding it, the element lock should be taken.
+
+### Good security practices
+Comprehensive article [here](http://www.oracle.com/technetwork/java/seccodeguide-139067.html).
