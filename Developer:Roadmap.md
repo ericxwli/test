@@ -1,6 +1,6 @@
 ### Roadmap
 
-The current focus is on improving CSS support (layout and rendering):
+The current focus is on improving CSS support (layout and rendering), in these areas:
 
 * vertical-alignment
 * outline
