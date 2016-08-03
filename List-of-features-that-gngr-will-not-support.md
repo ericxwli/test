@@ -1,1 +1,0 @@
-* [Battery Status API](https://www.w3.org/TR/battery-status/). See [article](https://blog.lukaszolejnik.com/battery-status-readout-as-a-privacy-risk/)
