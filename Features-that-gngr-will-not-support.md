@@ -13,3 +13,4 @@ These features are good to have sometimes, but have fingerprinting potential. Th
 ## References
 * http://blog.add0n.com/2016/03/23/html5-apis-fingerprint-users-how-to-prevent.html
 * https://blog.lukaszolejnik.com/battery-status-readout-as-a-privacy-risk/
+* https://www.browserleaks.com/
