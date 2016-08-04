@@ -1,5 +1,5 @@
 ## Never ever
-* [WPAP](https://en.wikipedia.org/wiki/Web_Proxy_Autodiscovery_Protocol) (4)
+* [WPAD](https://en.wikipedia.org/wiki/Web_Proxy_Autodiscovery_Protocol) (4)
 * [Battery Status API](https://www.w3.org/TR/battery-status/).
 * Geo Location
 * Any Camera or Mic APIs
