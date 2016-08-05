@@ -5,6 +5,9 @@
 * Geo Location
 * Any Camera or Mic APIs
 * Resource timing APIs. (5)
+* Etag header
+* Last-modified header (unless the LSBs are fudged)
+* Most of the `navigator` API.
 
 ## Needs more thought
 These features are good to have sometimes, but have fingerprinting potential. They should surely be opt-in though.
