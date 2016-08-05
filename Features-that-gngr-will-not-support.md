@@ -4,7 +4,7 @@
 * [Hyper-link auditing](https://html.spec.whatwg.org/multipage/semantics.html#hyperlink-auditing)
 * Geo Location
 * Any Camera or Mic APIs
-* Resource timing APIs
+* Resource timing APIs. (5)
 
 ## Needs more thought
 These features are good to have sometimes, but have fingerprinting potential. They should surely be opt-in though.
@@ -19,3 +19,4 @@ These features are good to have sometimes, but have fingerprinting potential. Th
 2. https://blog.lukaszolejnik.com/battery-status-readout-as-a-privacy-risk/
 3. https://www.browserleaks.com/
 4. https://news.ycombinator.com/item?id=12167209
+5. https://github.com/w3c/resource-timing/issues/64
