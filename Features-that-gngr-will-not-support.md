@@ -24,3 +24,4 @@ These features are good to have sometimes, but have fingerprinting potential. Th
 4. https://news.ycombinator.com/item?id=12167209
 5. https://github.com/w3c/resource-timing/issues/64
 6. https://www.chromium.org/Home/chromium-security/client-identification-mechanisms
+7. http://www.ieee-security.org/TC/SP2013/papers/4977a541.pdf
