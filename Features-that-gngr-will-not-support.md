@@ -15,6 +15,7 @@ These features are good to have sometimes, but have fingerprinting potential. Th
 * WebRTC
 * Canvas
 * KeyboardEvent.code (can be misused for fingerprinting keyboard).
+* [window.opener](https://dev.to/ben/the-targetblank-vulnerability-by-example)
 
 
 ## References
