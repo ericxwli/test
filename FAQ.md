@@ -11,7 +11,7 @@
 ## Is Java secure?
 First, a clarification. Many people associate `Java` with `Java applets`, which have turned out to be a huge security concern.
 
-However, the term `Java` has other meanings too. `Java Applications` are usually written in the `Java language`, which gets compiled to the `Java byte code` and then execute in the `Java Virtual Machine`.
+However, the term `Java` has other meanings too. `Java Applications` are usually written in the `Java language`, which gets compiled to the `Java byte code`, and then these applications execute in the `Java Virtual Machine`.
 
 `gngr` is written in the `Java language` and runs on a desktop (standard edition) `Java Virtual Machine`. It does *not* run as an applet nor does it support applets. The security of `Java applications` running on the `Java Virtual Machine` is very good; they don't suffer from common security vulnerabilities such as buffer overruns, or access to freed memory. They can also utilise the sandboxing mechanism, as `gngr` does.
 
@@ -19,17 +19,17 @@ Now, there have been vulnerabilities found in the past in the sandboxing mechani
 
 See this [Stackoverflow thread](http://security.stackexchange.com/questions/57646/why-do-i-hear-about-so-many-java-insecurities-are-other-languages-more-secure) for further discussion.
 
-## Why Java, and not some other JVM language?
+## Why Java, and not some other JVM language like Scala, Kotlin or Ceylon?
 * We forked from Lobo browser which was written in Java
-* Java has lesser run-time overheads than other JVM languages
+* Java has fewer run-time overheads than other JVM languages
 * Java has a larger community
 
-We are exploring alternatives, such as Scala, Kotlin, Ceylon, but don't want to rush into them right now. Also, Java 8 added support for Lambdas, which somewhat reduced the gap.
+We are exploring alternatives, such as Scala, Kotlin and Ceylon, but don't want to rush into them right now. Also, Java 8 added support for Lambdas, which somewhat reduced the gap.
 
 ## Is Java fast?
-An implementation in a high-level language with automatic memory management will always have some overhead compared to an implementation in a low-level language with manual memory management. However, for long running applications, the JIT compiler in Java has a pretty good track record of performance.
+An implementation in a high-level language with automatic memory management will always have overhead compared to an implementation in a low-level language with manual memory management. However, for long running applications, the JIT compiler in Java has a pretty good track record of performance.
 
-There many features in a modern JVM that help improve speed, such as profile guided JIT compilation, escape analysis, generation based heap allocation and garbage collection, etc.
+There are many features in a modern JVM that help improve speed, such as profile guided JIT compilation, escape analysis, generation based heap allocation and garbage collection, etc.
 
 And there are ongoing efforts to make it even faster: [value objects](http://openjdk.java.net/jeps/169) and [module system](http://openjdk.java.net/projects/jigsaw/spec/sotms/).
 
