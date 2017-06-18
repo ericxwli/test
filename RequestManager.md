@@ -18,12 +18,12 @@ Note that the exact policies of which features to enable / disable by default, a
 The Request Manager can be viewed by clicking the button on the right-top of the browser frame, labelled `Req Mgr`. The keyboard shortcut is `Alt-R`.
 
 Here is a screenshot of the Request Manager when browsing `gngr`'s homepage:
-![Request Manager Screenshot](https://gngr.info/media/img/screens/v03.10/reqMgr.png)
+![Request Manager Screenshot](https://gngr.info/media/img/screens/v0.3.13-dev/reqManager.png)
 
 In the above screenshot, you can notice that:
 * There are no external CSS requests (there may be embedded stylesheets however).
-* There are 13 Images
-* There are 3 Javascript requests (Actually, there is no JS on the page. The number 3 is getting added to all pages because of a pending [issue](https://github.com/UprootLabs/gngr/issues/149)).
+* There are 13 Images.
+* There are no Javascript requests.
 
 All the above requests are on the `gngr.info` domain. A background color of `red` means that a request of that type has been denied, while `green` means it has been allowed.
 
