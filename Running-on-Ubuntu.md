@@ -1,3 +1,8 @@
+# Ubuntu 16.04 and above
+
+You can simply install `openjdk-8-jre` or `openjdk-8-jre` from the official repositories.
+
+
 # Ubuntu 14.04
 
 The Java RE from your repos is version 7, whereas gngr requires Java RE 8. You will need to download one of the JRE binary blobs, either from Oracle or Zulu.
